@@ -40,7 +40,7 @@ Scam SMS and UPI fraud attempts don't wait for a convenient time, and by the tim
             │ calls
             ▼
 ┌──────────────────────────────┐
-│  Gemini API (gemini-2.0)     │
+│  Gemini API (gemini-3.6)     │
 └──────────────────────────────┘
             │
             ▼
